@@ -1,0 +1,20 @@
+{
+    "Author": "Ruturaj Dhekane",
+    "ContentSize": 3251,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/open-remote-desktop-port-on-a-vm-in-a-recovery-plan/master/OpenRemoteDesktopPort.ps1",
+    "DownloadCount": 1203,
+    "Id": "Open-remote-desktop-port-d76a4e61",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 369,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2015-4-28T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook provides you a way to open a remote desktop endpoint on your VM in a recovery plan.\u00a0 \u00a0Create a ASR recovery plan for your application. For the virtual machine for which you want to open a public Azure endpoint to access the virtual machine over internet.Note that yo",
+    "Title": "Open remote desktop port on a VM in a recovery plan",
+    "UpdatedDate": "2015-4-28T00:00:00",
+    "Url": "https://github.com/azureautomation/open-remote-desktop-port-on-a-vm-in-a-recovery-plan",
+    "UserTags": "Disaster Recovery"
+}
